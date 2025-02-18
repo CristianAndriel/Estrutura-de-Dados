@@ -4,9 +4,9 @@ public class Arrays {
     public static void main(String[] args) {
 
         String[] ninja = new String[3];
-        ninja[0] = "Naruto Uzumaki";
-        ninja[1] = "Sasuke Uchiha";
-        ninja[2] = "Sakura Haruno";
+        ninja[2] = "Naruto Uzumaki";
+        ninja[0] = "Sasuke Uchiha";
+        ninja[1] = "Sakura Haruno";
 
         System.out.println(java.util.Arrays.toString(ninja)); /* O Arrays.toString() é um metodo
         da classe Arrays em Java, utilizado para transformar um array (um conjunto de elementos)
