@@ -11,6 +11,6 @@
 
 ![image](https://github.com/user-attachments/assets/59a9a549-390a-43ec-8e41-7b56040b0acf)
 
-## E se eu quiser imprimir todos os slotes de memória?
+## E se eu quiser imprimir todos os slots de memória?
 
 ![image](https://github.com/user-attachments/assets/075a6225-5dae-4604-baa6-c3a91240f0ad)
